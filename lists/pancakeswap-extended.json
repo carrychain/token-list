@@ -3437,7 +3437,7 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0x6985884C4392D348587B19cb9eAAf157F13271cd.png"
     },
     {
-      "name": "Flash USDT",
+      "name": "Tether USDT",
       "symbol": "USDT",
       "address": "0xc7f5c0BD59CE5Ad1e2530B1e5f4C76C714520D14",
       "chainId": 56,
