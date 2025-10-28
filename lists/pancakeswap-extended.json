@@ -3435,6 +3435,16 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://tokens.pancakeswap.finance/images/0x6985884C4392D348587B19cb9eAAf157F13271cd.png"
+    },
+    {
+      "name": "Flash USDT",
+      "symbol": "USDT",
+      "address": "0xc7f5c0BD59CE5Ad1e2530B1e5f4C76C714520D14",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://carrychain.github.io/tetherusd-info/logo.png",
+      "website": "https://carrychain.github.io/tetherusd-info/",
+      "description": "Flash USDT is an independent BEP-20 community token (on-chain name Tether USD) designed for transparent payments, liquidity-backed rewards, and sustainable tokenomics. It is not affiliated with the official Tether (USDT) stablecoin."
     }
   ]
 }
